@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [solar_plant_watering_alarm.PcbDoc]
+   Generated File[solar_plant_watering_alarm.TXT]
+   Generated File[solar_plant_watering_alarm.LDP]
+   Generated File[solar_plant_watering_alarm.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:23:58 PM On 2/8/2024

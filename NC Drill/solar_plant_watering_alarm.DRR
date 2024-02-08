@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: solar_plant_watering_alarm.PcbDoc   2/8/2024  5:23:55 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : solar_plant_watering_alarm.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             5         PTH        1.24inch (31.62mm)
+T2      32mil (0.8mm)                                             Round             4         PTH        0.40inch (10.07mm)
+T3      33mil (0.85mm)                                            Round             4         PTH        0.39inch (9.88mm)
+T4      35mil (0.9mm)                                             Round             10        PTH        1.14inch (28.97mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              23
+
+Total Processing Time (hh:mm:ss) : 00:00:01
